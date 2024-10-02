@@ -1,3 +1,6 @@
+# ⚠️This repository is not maintained⚠️
+# ⚠️This repository is outdated and deprecated⚠️
+
 # AWS ECS Selenium Video Terraform Module
 
 This module is used to deploy side-car container with a [Selenium Video](https://github.com/SeleniumHQ/docker-selenium/tree/trunk/Video)
